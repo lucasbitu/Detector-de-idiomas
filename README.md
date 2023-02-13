@@ -12,4 +12,4 @@ Um projeto usando NLP (Processamento de Linguagem Natural), com treinamento de m
 
 ## Fontes
 
-Os arquivos de texto foram fornecidos pelo curso [NLP: regex e modelos de linguagem](https://cursos.alura.com.br/course/nlp-modelos-linguagem) da plataforma [alura](https://www.alura.com.br/)
+Os arquivos csv foram fornecidos pelo curso [NLP: regex e modelos de linguagem](https://cursos.alura.com.br/course/nlp-modelos-linguagem) da plataforma [alura](https://www.alura.com.br/)
